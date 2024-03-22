@@ -14,7 +14,7 @@ body {
 }
 @font-face {
     font-family: 'Petrona';
-    src: url('./assets/fonts/Petrona-Regular.ttf');
+    src: url('./fonts/Petrona-Regular.ttf');
 }
 
 a {
@@ -110,7 +110,6 @@ a {
 }
 .item_img{
     width: 100%;
-    background: #ccc;
 }
 .item_des{
     margin-top:30px;
