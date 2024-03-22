@@ -151,6 +151,7 @@ a {
 .project_detail_item{
     width: 100%;
     padding: 0px 15px;
+    box-sizing: border-box;
 }
 .project_detail_item img{
     width: 100%;
